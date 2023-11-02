@@ -74132,7 +74132,6 @@
 .zigzagrowy.com
 .zihogchfaan.com
 .zijaipse.com
-.mcs.zijieapi.com
 .mon.zijieapi.com
 .ads5-normal-hl.zijieapi.com
 .ads3-normal-hl.zijieapi.com
